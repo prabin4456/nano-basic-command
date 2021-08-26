@@ -1,3 +1,5 @@
+Termux opend
+
 nano timedate.sh
 => opend your nano editor
 
