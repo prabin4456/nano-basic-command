@@ -20,6 +20,7 @@ chmod +x timedate.sh
 => termux run karne k liye
 
 sh timedate.sh
+bash timedate.sh
 => run your coding termux
 
 rm timedate.sh
